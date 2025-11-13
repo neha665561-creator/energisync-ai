@@ -1,0 +1,47 @@
+# ⚡ EnergiSync AI — The Renewable Energy Matchmaker
+
+### 🌍 Overview  
+**EnergiSync AI** is an AI-powered platform that accelerates renewable energy deployment by connecting **energy producers** (solar, wind, bio) with **energy consumers** (industries, communities, and local grids).  
+It functions like an **“Uber for Green Energy,”** using intelligent matchmaking algorithms to optimize renewable energy flow, reduce wastage, and drive scalable green adoption across regions.
+
+---
+
+### 💡 Problem Statement  
+To create a **scalable, digital, and automation-driven platform** that accelerates renewable energy deployment across regions.
+
+---
+
+### 🚀 Solution  
+EnergiSync AI automates how renewable energy finds where it’s most needed.  
+It:
+- Matches renewable producers with consumers based on location, demand, and cost.  
+- Suggests **optimal regions** for new renewable installations.  
+- Calculates **energy ROI**, **cost benefits**, and **carbon impact** using AI models.  
+- Builds a **data-driven energy exchange network** to speed up deployment.
+
+---
+
+### ⚙️ Tech Stack  
+| Component | Technology Used |
+|------------|-----------------|
+| Frontend | Streamlit / React |
+| Backend | Python |
+| AI Engine | OpenAI API, Optimization Models |
+| Data | Weather & energy datasets (OpenWeatherMap, Global Solar Atlas) |
+| Hosting | Streamlit Cloud / Vercel |
+
+---
+
+### 🧠 Core Features  
+- 🔌 **AI Energy Matchmaker:** Pairs producers & consumers intelligently.  
+- 📈 **Deployment Recommender:** Identifies high-potential renewable zones.  
+- 💰 **Smart ROI Predictor:** Estimates cost savings & returns.  
+- 🌱 **Carbon Impact Tracker:** Calculates CO₂ reduction and green contribution.  
+
+---
+
+### 🧰 How to Run Locally  
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/energisync-ai-team/energisync-ai.git
+   cd energisync-ai
